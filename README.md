@@ -1,7 +1,6 @@
 # 极客大学「算法训练营-第23期」作业提交仓库
 
 
-
 ## 仓库目录结构说明
 
 1. `week01/` 代表第一周作业提交目录，以此类推。
@@ -22,3 +21,5 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+
+
